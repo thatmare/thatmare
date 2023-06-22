@@ -1,6 +1,7 @@
 ### Hi there 👋
 #### I'm Marissa. You can call me Mare!
 
+<img align="right" width="350px" src="https://github.com/thatmare/thatmare/assets/113146161/c825f8c3-4798-4f72-9021-12ea7b61d903"/>
 
 - 🔭 I’m currently working on Burger Queen API Client 🍔
 - 🌱 I’m currently learning React
@@ -26,7 +27,6 @@
 - 🖥 &nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
-
-<img align="right" width="250px" src="https://github.com/thatmare/thatmare/assets/113146161/c825f8c3-4798-4f72-9021-12ea7b61d903"/>
+<br/>
 
 ![Marissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatmare&show_icons=true&theme=radical)
