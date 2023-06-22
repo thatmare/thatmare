@@ -1,10 +1,10 @@
 ### Hi there 👋
 #### I'm Marissa. You can call me Mare!
 
-<img align="right" width="350px" src="https://github.com/thatmare/thatmare/assets/113146161/c825f8c3-4798-4f72-9021-12ea7b61d903"/>
+<img align="right" width="300px" src="https://github.com/thatmare/thatmare/assets/113146161/c825f8c3-4798-4f72-9021-12ea7b61d903"/>
 
 - 🔭 I’m currently working on Burger Queen API Client 🍔
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and TypeScript. 
 - 👯 I’m looking to collaborate on open source projects!
 - 💬 Ask me about books, cats and music.
 - ⚡ Fun fact: I write fiction and essays. 📚
