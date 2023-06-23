@@ -6,8 +6,12 @@
 - 🔭 I’m currently working on Burger Queen API Client 🍔
 - 🌱 I’m currently learning React and TypeScript. 
 - 👯 I’m looking to collaborate on open source projects!
-- 💬 Ask me about books, cats and music.
-- ⚡ Fun fact: I write fiction and essays. 📚
+- 🛰 I'm loving the diversity in the IT culture.
+- 🤹‍♀️ I'm good at analytical thinking and communication.
+- 💬 Ask me about books, linguistics and cats.
+- ⚡ Fun facts:
+  - 📚 I write fiction and essays! 
+  - 👓 I studied Applied Linguistics, so I'm very fond of humanities and politics as well.
 
 ### Tech Stack
 
@@ -29,7 +33,7 @@
 
 <br/>
 
-![Marissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatmare&show_icons=true&theme=tokyonight)
+![Marissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatmare&theme=tokyonight&rank_icon=github)
 
 <a href="https://github.com/thatmare/codestats-profile-readme">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=thatmare&repo=md-links&theme=tokyonight" />
