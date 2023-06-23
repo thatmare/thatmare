@@ -11,7 +11,7 @@
 - 💬 Ask me about books, linguistics and cats.
 - ⚡ Fun facts:
   - 📚 I write fiction and essays! 
-  - 👓 I studied Applied Linguistics, so I'm very fond of humanities and politics as well.
+  - 👓 I studied Applied Linguistics, so I'm very fond of humanities as well.
 
 ### Tech Stack
 
@@ -33,7 +33,7 @@
 
 <br/>
 
-![Marissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatmare&theme=tokyonight&rank_icon=github)
+![Marissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatmare&theme=tokyonight&rank_icon=github&show_icons=true)
 
 <a href="https://github.com/thatmare/codestats-profile-readme">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=thatmare&repo=md-links&theme=tokyonight" />
