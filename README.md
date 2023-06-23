@@ -29,4 +29,16 @@
 
 <br/>
 
-![Marissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatmare&show_icons=true&theme=radical)
+![Marissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatmare&show_icons=true&theme=tokyonight)
+
+<a href="https://github.com/thatmare/codestats-profile-readme">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=thatmare&repo=md-links&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/thatmare/codestats-profile-readme">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=thatmare&repo=be-my-friend&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/thatmare/codestats-profile-readme">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=thatmare&repo=ghibli-lovers&theme=tokyonight"/>
+</a>
