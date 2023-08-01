@@ -33,16 +33,7 @@
 
 </p>
 
-![Marissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatmare&theme=tokyonight&rank_icon=github&show_icons=true)
+![Marissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatmare&theme=synthwave&rank_icon=github&show_icons=true)
 
-<a href="https://github.com/thatmare/codestats-profile-readme">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=thatmare&repo=md-links&theme=tokyonight" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thatmare&layout=donut&theme=synthwave)](https://github.com/thatmare)
 
-<a href="https://github.com/thatmare/codestats-profile-readme">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=thatmare&repo=be-my-friend&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/thatmare/codestats-profile-readme">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=thatmare&repo=ghibli-lovers&theme=tokyonight"/>
-</a>
