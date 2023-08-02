@@ -3,8 +3,8 @@
 
 <img align="right" width="300px" src="https://github.com/thatmare/thatmare/assets/113146161/c825f8c3-4798-4f72-9021-12ea7b61d903"/>
 
-- 🔭 I’m currently working on Burger Queen API Client 🍔
-- 🌱 I’m currently learning React and TypeScript. 
+- 🔭 I’m currently working on Burger Queen API 🍔
+- 🌱 I’m currently learning Express and MongoDB.
 - 👯 I’m looking to collaborate on open source projects!
 - 🛰 I'm loving the diversity in the IT culture.
 - 🤹‍♀️ I'm good at analytical thinking and communication.
